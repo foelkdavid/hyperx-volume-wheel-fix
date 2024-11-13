@@ -1,4 +1,4 @@
-# 🎧 hyperx-volume-wheel fix
+# 🎧 hyperx-volume-wheel-fix
 
 ## Whats the issue?
 The volume wheel of HyperX headsets like the "HyperX_Cloud_III_Wireless" wont work on linux.
